@@ -1,0 +1,13 @@
+name: shinyR_1a
+title: shinyR_1a
+username:
+account: hbcc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8564266
+bundleId: 6956724
+url: https://hbcc.shinyapps.io/shinyR_1a/
+when: 1678804612.20856
+lastSyncTime: 1678804612.20858
+asMultiple: FALSE
+asStatic: FALSE
